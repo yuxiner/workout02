@@ -1,0 +1,13 @@
+name: Workout02-yuxin-zhang
+title: Workout02-yuxin-zhang
+username:
+account: yuxin-zhang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 870297
+bundleId: 2017003
+url: https://yuxin-zhang.shinyapps.io/Workout02-yuxin-zhang/
+when: 1555452600.92415
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|README.md|workout02.pdf
